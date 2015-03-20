@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  DelegationTest
 //
 //  Created by Micah Lanier on 3/20/15.
@@ -8,8 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+
+
+@interface RootViewController : UIViewController
 
 
 @end
-
